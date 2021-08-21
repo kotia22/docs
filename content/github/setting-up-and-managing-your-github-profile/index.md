@@ -15,3 +15,4 @@ children:
   - /managing-contribution-graphs-on-your-profile
 ---
 
+документы/содержание/github/настройка и управление вашим профилем на github/ index.md
